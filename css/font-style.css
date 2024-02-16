@@ -1,0 +1,232 @@
+@font-face {
+    font-family: 'bikoblack';
+    src: url('../font/biko_black/biko_black-webfont.woff') format('woff2'),
+         url('../font/biko_black/biko_black-webfont.woff2') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+ h2{
+    font-family: 'bikoblack';
+    font-size: 50px;
+    color: #0864b1;
+    text-align: center;
+}
+
+h3{
+    font-family: 'bikoblack';
+    font-size: 100px;
+    color: #FFFFFF;
+}
+
+.US{
+    text-align: center;
+}
+
+
+@font-face {
+    font-family: 'bikobold';
+    src: url('../font/biko-Bold/biko_bold-webfont.woff') format('woff2'),
+         url('../font/biko-Bold/biko_bold-webfont.woff2') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1{
+    font-family: 'bikobold';
+    font-size: 45px;
+    color: #FFFFFF;
+    
+}
+
+.number h4{
+    font-family: 'bikobold';
+    font-size: 100px;
+    color: #0864B1;
+}
+
+
+h5{
+    font-family: 'bikoblack';
+    font-size: 30px;
+    color: #0864B1;
+}
+
+.upde h3{
+    font-family: 'bikoblack';
+    font-size: 75px;
+    color:#FFFFFF;
+    
+}
+.upde{
+    background-color: #0864B1;
+    text-align: center;
+}
+
+.join button{
+    font-family: 'bikoregular';
+    font-size: 35px;
+    background-color: #0864B1;
+    color: #FFFFFF;
+    border: 5px solid;
+    padding: 20px;
+}
+
+.forms p{
+    font-family: 'bikobold';
+    font-size: 30px;
+    color: #0864B1;
+}
+
+.btn{
+    font-family: 'bikobold';
+    font-size: 30px;
+}
+
+
+.form-group{
+    font-family: 'bikobold';
+    font-size: 35px;
+    color: #0864B1;
+}
+
+.fils{
+    font-family: 'bikobold';
+    font-size: 30px;
+    
+}
+
+.footer.h1{
+    font-family: 'bikobold';
+    font-size: 45px;
+    color: #FFFFFF;
+}
+
+.footer p{
+    font-family: 'bikobold';
+    font-size: 25px;
+    color: #FFFFFF;
+}
+
+
+@font-face {
+    font-family: 'bikoregular';
+    src: url('../font/biko-regular/biko_regular-webfont.woff') format('woff2'),
+         url('../font/biko-regular/biko_regular-webfont.woff2') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+.fils{
+    color: #0864B1;
+}
+/* .fils:hover{
+    background-color:#0864B1;
+    color:white;
+} */
+
+
+
+.header.li{
+
+    font-family: 'bikoregular';
+    font-size: 25px;
+    color: #FFFFFF;
+}
+
+p{
+    font-family: 'bikoregular';
+    font-size: 35px;
+}
+.header p{
+    color: #FFFFFF;
+}
+
+.number p{
+    font-family: 'bikoregular';
+    font-size: 40px;
+    color: #676767;
+}
+
+
+#pakages p{
+    font-family: 'bikoregular';
+    font-size: 20px;
+    color:#676767;
+}
+
+.slide p{
+    font-family: 'bikoregular';
+    font-size: 30px;
+    color:#676767;
+}
+
+h6{
+    font-family: 'bikoregular';
+    font-size: 30px;
+    color:#676767;
+}
+
+.nun{
+    font-family: 'bikoregular';
+    font-size: 30px;
+    color:#676767;
+}
+
+.btn:hover{
+    background-color: #0864B1;
+    color: #FFFFFF;
+
+}
+
+/* address{
+    font-family: 'bikoregular';
+    font-size: 18px;
+    color:#FFFFFF;
+} */
+
+a.upperitem{
+    font-family: 'bikoregular';
+    font-size: 30px;
+    color:#FFFFFF;
+}
+
+/*  */
+ 
+.adr{
+    font-family: 'bikoregular'; 
+    font-size: 18px;
+    color: #FFFFFF;
+
+}
+.footer .res{
+    font-family: 'bikobold';
+    color: #FFFFFF;
+    font-size: 25px;
+}
+.footer .lm{
+    font-family: 'bikobold';
+    color: #FFFFFF;
+    font-size: 30px;
+}
+footer h5{
+    font-family: 'bikobold';
+    color: #FFFFFF;
+    font-size: 25px;
+}
+.footer a.lo{
+    font-family: 'bikoregular'; 
+    font-size: 22px;
+    color:#FFFFFF  ;
+}
+.footer h1{
+    font-family: 'bikobold';
+    font-size: 45px;
+    color: #FFFFFF;
+}
+
+
+/*  */
+
